@@ -11,7 +11,7 @@ s = 'hasnaa'
 
 y = float(y)
 # Can we convert the str to int ?
-'''yes'''
+'yes'
 #Create a list of numbers from 1 to 5
 
 numbers = [1,2,3,4,5]
@@ -26,7 +26,7 @@ dic = {'name':'hasnaa','age':21}
 
 '''yes , if there more than one statement in a line '''
 #Python is interpreted or compiled ?
-'''python is interpreted'''
+'python is interpreted'
 #What is the differences between low level & high level
 
 '''low level is machine language , it is tough to understand 
@@ -35,7 +35,7 @@ high level is programer friendly language , easy to understand  '''
 '''= is an assignment operator
 but == is a comparison operator'''
 #What do we mean by using !=
-'''not equal'''
+'not equal'
 #What is the operator precedence
 '''the order of operations.'''
 # Create a variable x with value of 10
@@ -82,17 +82,17 @@ but elif is used when the conditions are mutually exclusive.'''
 but else is uesd in the last case of all in the if statement '''
 #Can we use more than one elif
 
-'''yes'''
+'yes'
 # Can we use more than one else
-'''no'''
+'no'
 #write s simple ternary operator
 name = 'hasnaa' 
 print ("welcome") if name == 'hasnaa' else print ("who you are")
 #in elif , python will check all the conditions no matter what ?
 
-'''no'''
+'no'
 #in elif we use else for ... ?
-'''for the last condition'''
+'for the last condition'
 #if we have this list [2,4,6,8,10] :
 
 l=[2,4,6,8,10]
